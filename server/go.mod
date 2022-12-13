@@ -1,4 +1,4 @@
-module github.com/beezy-dev/echo-ca
+module github.com/beezy-dev/echo-ca/server
 
 go 1.19
 
