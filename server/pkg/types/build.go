@@ -1,4 +1,4 @@
-package build
+package types
 
 type Build struct {
 	AppName 	string `JSON:"appname"`

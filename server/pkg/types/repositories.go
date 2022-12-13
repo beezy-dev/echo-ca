@@ -1,4 +1,4 @@
-package repositories
+package types
 
 type Repository struct {
 	ID			int `JSON:"id"`

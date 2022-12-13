@@ -1,4 +1,4 @@
-package jobs
+package types
 
 type Jobs struct { 
 	ID		int `JSON:"id"`
